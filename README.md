@@ -5,7 +5,7 @@ At school, I choose to lead at sports, part of the winning team at nationals in 
 Then worked as a student coordinator at my college annual fest focused on technical events. It helped to enhance leadership skills. I am enthusiastic about goals and open to challenges.
 
 ### Languages and Tools:
-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/>](https://getbootstrap.com) Bootstrap
+- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/> Bootstrap](https://getbootstrap.com) 
 - [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>](https://www.w3schools.com/css/) CSS
 - [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="20" height="20"/>](https://expressjs.com) Express js
 - [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>](https://git-scm.com/) GIT
